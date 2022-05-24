@@ -1,2 +1,2 @@
 # heliodon
-calculation of sun position : application of shadow calculation
+Sun position seen by an observer on earth : application to shadow calculation
